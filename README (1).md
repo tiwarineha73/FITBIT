@@ -66,10 +66,10 @@ with calorie expenditure.
 project4-fitbit-eda/
 │
 ├── data/
-│   └── FitBit_data.csv
+│   └── fitbit_data.csv
 │
 ├── notebooks/
-│   └── FitBit_EDA.ipynb
+│   └── fitbitit_eda.ipynb
 │
 ├── src/
 │   └── eda.py
@@ -107,7 +107,7 @@ cd project4-fitbit-eda
 pip install -r requirements.txt
 python src/eda.py
 # OR
-jupyter notebook notebooks/FitBit_EDA.ipynb
+jupyter notebook notebooks/fitbit_EDA.ipynb
 ```
 
 ---
